@@ -1,1 +1,2 @@
-print("hello world")
+def func(x):
+	return x + 2
